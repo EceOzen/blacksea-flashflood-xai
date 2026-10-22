@@ -1,0 +1,4 @@
+time,label,flood_core,oof_prob,top_contributors
+2009-07-14 12:00:00,1,True,0.8039572990434547,Meridional wind v850 (<0 = onshore) (-48 h) +0.98; TCWV (max) (-24 h) +0.64; 850 hPa wind (max) (-24 h) +0.49; Black Sea SST anomaly (-72 h) +0.46; CAPE (max) (-24 h) +0.39
+2021-08-15 18:00:00,1,True,0.03272222707860039,Shear 850-500 hPa (-24 h) +1.13; Meridional wind v850 (<0 = onshore) (-48 h) -0.71; MSLP anomaly (-24 h) +0.64; IVT (mean) (-72 h) -0.60; Meridional wind v850 (<0 = onshore) (-24 h) +0.59
+2021-08-10 00:00:00,0,True,0.7656648813687563,Shear 850-500 hPa (-24 h) +1.08; CAPE (mean) (-72 h) -0.95; MSLP anomaly (-24 h) +0.90; TCWV (max) (-24 h) +0.81; Black Sea SST anomaly (-72 h) +0.65
