@@ -5,7 +5,7 @@
 Explainable machine-learning study of the meteorological precursors of
 rapid-onset flash floods in the Western Black Sea region, anchored on the
 11 August 2021 Bozkurt (Kastamonu) flood. Poster contribution to the
-[ECMWF 2026 Workshop on Machine Learning for Land and Hydrology]([https://events.ecmwf.int/](https://ecmwfevents.com/i/2026-workshop-on-machine-learning-for-land))
+[ECMWF 2026 Workshop on Machine Learning for Land and Hydrology]([https://ecmwfevents.com/i/2026-workshop-on-machine-learning-for-land])
 (Reading, 3–5 November 2026).
 
 > Poster, figures and summary: [doi.org/10.5281/zenodo.23561977](https://doi.org/10.5281/zenodo.23561977)
